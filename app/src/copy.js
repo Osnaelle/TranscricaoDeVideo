@@ -2,7 +2,7 @@ const copyButton = document.querySelector('button.copy')
 copyButton.addEventListener('click', ()=>{
     const texts= document.querySelectorAll('.transcription .content p ')
 
-    const output = [...texts].reduce((acc, text)=> acc +=text.innerHTML, "")
+    const output = [...texts].reduce((acc, text)=> acc +=text.innerText, "")
     navigator.clipboard.writeText(output)
 
 
