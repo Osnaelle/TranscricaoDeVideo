@@ -1,8 +1,7 @@
 
 # Servidor de Download e Transcrição de Vídeos do YouTube
 
-Este projeto é um servidor Node.js que permite baixar vídeos do YouTube, converter o áudio, transcrever o conteúdo de áudio usando a WhisperAI e disponibilizar a transcrição para os usuários.
-O projeto tem finalidade de me aprofundar mais nos conceitos e foi utilizado um modelo de IA gratuito resultando em limitações na transcrição e possíveis erros.
+Este projeto é um servidor Node.js que permite baixar vídeos do YouTube, converter o áudio, transcrever o conteúdo de áudio usando a WhisperAI e disponibilizar a transcrição para os usuários.Foi utilizado um modelo de IA gratuito resultando em limitações na transcrição e possíveis erros.
 
 ## Requisitos
 
