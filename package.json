@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@xenova/transformers": "^2.5.2"
+  }
+}
